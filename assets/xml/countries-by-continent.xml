@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- http://www.worldatlas.com/cntycont.htm -->
+<earth>
+  <continents>
+    <continent>
+      <name>Africa</name>
+      <countries number="53">
+        <country>Algeria</country>
+        <country>Angola</country>
+        <country>Benin</country>
+        <country>Botswana</country>
+        <country>Burkina</country>
+        <country>Burundi</country>
+        <country>Cameroon</country>
+        <country>Cape Verde</country>
+        <country>Central African Republic</country>
+        <country>Chad</country>
+        <country>Comoros</country>
+        <country>Congo</country>
+        <country>Congo (Dem. Rep.)</country>
+        <country>Djibouti</country>
+        <country>Egypt</country>
+        <country>Equatorial Guinea</country>
+        <country>Eritrea</country>
+        <country>Ethiopia</country>
+        <country>Gabon</country>
+        <country>Gambia</country>
+        <country>Ghana</country>
+        <country>Guinea</country>
+        <country>Guinea-Bissau</country>
+        <country>Ivory Coast</country>
+        <country>Kenya</country>
+        <country>Lesotho</country>
+        <country>Liberia</country>
+        <country>Libya</country>
+        <country>Madagascar</country>
+        <country>Malawi</country>
+        <country>Mali</country>
+        <country>Mauritania</country>
+        <country>Mauritius</country>
+        <country>Morocco</country>
+        <country>Mozambique</country>
+        <country>Namibia</country>
+        <country>Niger</country>
+        <country>Nigeria</country>
+        <country>Rwanda</country>
+        <country>Sao Tome and Principe</country>
+        <country>Senegal</country>
+        <country>Seychelles</country>
+        <country>Sierra Leone</country>
+        <country>Somalia</country>
+        <country>South Africa</country>
+        <country>Sudan</country>
+        <country>Swaziland</country>
+        <country>Tanzania</country>
+        <country>Togo</country>
+        <country>Tunisia</country>
+        <country>Uganda</country>
+        <country>Zambia</country>
+        <country>Zimbabwe</country>
+      </countries>
+    </continent>
+    <continent>
+      <name>Asia</name>
+      <countries number="44">
+        <country>Afghanistan</country>
+        <country>Bahrain</country>
+        <country>Bangladesh</country>
+        <country>Bhutan</country>
+        <country>Brunei</country>
+        <country>Burma (Myanmar)</country>
+        <country>Cambodia</country>
+        <country>China</country>
+        <country>East Timor</country>
+        <country>India</country>
+        <country>Indonesia</country>
+        <country>Iran</country>
+        <country>Iraq</country>
+        <country>Israel</country>
+        <country>Japan</country>
+        <country>Jordan</country>
+        <country>Kazakhstan</country>
+        <country>Korea (north)</country>
+        <country>Korea (south)</country>
+        <country>Kuwait</country>
+        <country>Kyrgyzstan</country>
+        <country>Laos</country>
+        <country>Lebanon</country>
+        <country>Malaysia</country>
+        <country>Maldives</country>
+        <country>Mongolia</country>
+        <country>Nepal</country>
+        <country>Oman</country>
+        <country>Pakistan</country>
+        <country>Philippines</country>
+        <country>Qatar</country>
+        <country>Russian Federation</country>
+        <country>Saudi Arabia</country>
+        <country>Singapore</country>
+        <country>Sri Lanka</country>
+        <country>Syria</country>
+        <country>Tajikistan</country>
+        <country>Thailand</country>
+        <country>Turkey</country>
+        <country>Turkmenistan</country>
+        <country>United Arab Emirates</country>
+        <country>Uzbekistan</country>
+        <country>Vietnam</country>
+        <country>Yemen</country>
+      </countries>
+    </continent>
+    <continent>
+      <name>Europe</name>
+      <countries number="47">
+        <country>Albania</country>
+        <country>Andorra</country>
+        <country>Armenia</country>
+        <country>Austria</country>
+        <country>Azerbaijan</country>
+        <country>Belarus</country>
+        <country>Belgium</country>
+        <country>Bosnia and Herzegovina</country>
+        <country>Bulgaria</country>
+        <country>Croatia</country>
+        <country>Cyprus</country>
+        <country>Czech Republic</country>
+        <country>Denmark</country>
+        <country>Estonia</country>
+        <country>Finland</country>
+        <country>France</country>
+        <country>Georgia</country>
+        <country>Germany</country>
+        <country>Greece</country>
+        <country>Hungary</country>
+        <country>Iceland</country>
+        <country>Ireland</country>
+        <country>Italy</country>
+        <country>Latvia</country>
+        <country>Liechtenstein</country>
+        <country>Lithuania</country>
+        <country>Luxembourg</country>
+        <country>Macedonia</country>
+        <country>Malta</country>
+        <country>Moldova</country>
+        <country>Monaco</country>
+        <country>Montenegro</country>
+        <country>Netherlands</country>
+        <country>Norway</country>
+        <country>Poland</country>
+        <country>Portugal</country>
+        <country>Romania</country>
+        <country>San Marino</country>
+        <country>Serbia </country>
+        <country>Slovakia</country>
+        <country>Slovenia</country>
+        <country>Spain</country>
+        <country>Sweden</country>
+        <country>Switzerland</country>
+        <country>Ukraine</country>
+        <country>United Kingdom</country>
+        <country>Vatican City</country>
+      </countries>
+    </continent>
+    <continent>
+      <name>North America</name>
+      <countries number="23">
+        <country>Antigua and Barbuda</country>
+        <country>Bahamas</country>
+        <country>Barbados</country>
+        <country>Belize</country>
+        <country>Canada</country>
+        <country>Costa Rica</country>
+        <country>Cuba</country>
+        <country>Dominica</country>
+        <country>Dominican Rep.</country>
+        <country>El Salvador</country>
+        <country>Grenada</country>
+        <country>Guatemala</country>
+        <country>Haiti</country>
+        <country>Honduras</country>
+        <country>Jamaica</country>
+        <country>Mexico</country>
+        <country>Nicaragua</country>
+        <country>Panama</country>
+        <country>St. Kitts & Nevis</country>
+        <country>St. Lucia</country>
+        <country>St. Vincent & the Grenadines</country>
+        <country>Trinidad & Tobago</country>
+        <country>United States</country>
+      </countries>
+    </continent>
+    <continent>
+      <name>Oceania</name>
+      <countries number="14">
+        <country>Australia</country>
+        <country>Fiji</country>
+        <country>Kiribati</country>
+        <country>Marshall Islands</country>
+        <country>Micronesia</country>
+        <country>Nauru</country>
+        <country>New Zealand</country>
+        <country>Palau</country>
+        <country>Papua New Guinea</country>
+        <country>Samoa</country>
+        <country>Solomon Islands</country>
+        <country>Tonga</country>
+        <country>Tuvalu</country>
+        <country>Vanuatu</country>
+      </countries>
+    </continent>
+    <continent>
+      <name>South America</name>
+      <countries number="12">
+        <country>Argentina</country>
+        <country>Bolivia</country>
+        <country>Brazil</country>
+        <country>Chile</country>
+        <country>Colombia</country>
+        <country>Ecuador</country>
+        <country>Guyana</country>
+        <country>Paraguay</country>
+        <country>Peru</country>
+        <country>Suriname</country>
+        <country>Uruguay</country>
+        <country>Venezuela</country>
+      </countries>
+    </continent>
+  </continents>
+</earth>

@@ -1,0 +1,62 @@
+/*
+-----------------------------------------------
+Print Styles
+-----------------------------------------------
+RouteOne
+file:		  /workspace/assets/css/print.css
+author:		Stephen Bau
+date:		  27 February 2008
+----------------------------------------------- */
+
+
+/* Hide navigation, subnavigation
+----------------------------------------------- */
+#system-navigation,
+#header,
+#subnav,
+#basebar,
+#footer,
+#content h2,
+.colA,
+.colB,
+.box-header {display:none;}
+
+
+/* Set font sizes
+----------------------------------------------- */
+body {
+  font-size:9pt;
+  line-height:12pt;
+  background:transparent;
+  }
+
+/* Layout
+----------------------------------------------- */
+#box-content {padding:0; margin:0}
+#content {margin:0; float:none;}
+#content .colC {margin-left:0}
+#content .colC h2 {display:block}
+#content .content {
+  border:none;
+  display:block;
+  }
+#content .cover {
+  border:none;
+  display:block;
+  height:688pt;
+  }
+.box {min-width:0; width:100%;}
+.content-body {
+  margin-top:72pt;
+  margin-left:180pt;
+  }
+.proposal .cover p.footnote {
+  margin-top:160pt;
+  color:#fff;
+  font-size:7pt;
+  }
+
+/* Remove floats
+----------------------------------------------- */
+#page {float:none}
+#page .box {float:none}

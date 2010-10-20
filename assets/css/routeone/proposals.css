@@ -1,0 +1,291 @@
+/*
+-----------------------------------------------
+RouteOne Interface
+-----------------------------------------------
+RouteOne
+file:     /workspace/assets/css/proposals.css
+author:   Stephen Bau
+date:     21 February 2008
+----------------------------------------------- */
+
+
+/* Task Priority
+----------------------------------------------- */
+.proposal .list-box-fluid {
+  height:auto;
+  min-height:432px;
+  }
+
+.proposal .cover .content-body,
+.proposal .content .content-body {
+  padding:2em;
+  }
+.proposal .cover {
+  background:#000;
+  min-height:432px;
+  }
+.proposal .cover p,
+.proposal .cover h1,
+.proposal .cover h2,
+.proposal .cover h3,
+.proposal .cover h4,
+.proposal .cover h5,
+.proposal .cover h6 {
+  color:#fff;
+  }
+.proposal h1 {font-size:2em}
+.proposal .cover .content-body p a {color:#fff; font-weight:normal}
+.proposal .cover .content-body p a:hover {color:#2A8CC8;}
+.proposal .cover .content-body h2 strong {
+  font-weight:normal;
+  color:#2A8CC8;
+  }
+.proposal .cover .content-body h3 {
+  font-size:1em;
+  font-weight:normal;
+  text-transform:uppercase;
+  color:#2A8CC8;
+  margin-top:3em;
+  margin-bottom:1em;
+  }
+.proposal .cover .content-body h3 span {
+  color:#fff;
+  }
+.proposal .cover p.footnote {
+  margin-top:3em;
+  padding-top:1em;
+  font-size:1em;
+  color:#666;
+  border-top:1px solid #222;
+  }
+.proposal .cover p.contact-name-org {
+  margin-bottom:0;
+  text-transform:uppercase;
+  }
+.proposal .content-body h1 {
+  margin-bottom:1em;
+  }
+.proposal .content-body h2 {
+  margin-bottom:1em;
+  }
+.proposal .content-body h3 {
+  font-size:1.2em;
+  font-weight:bold;
+  color:#2A8CC8;
+  margin-top:1.5em;
+  margin-bottom:.5em;
+  }
+.proposal .content-body h4 {
+  margin-bottom:1em;
+  }
+.proposal .content-body h5 {
+  font-size:1.1em;
+  font-weight:bold;
+  }
+.proposal .content-body p {
+  margin-bottom:1em;
+  }
+.proposal .content-body p a {
+  color:#000;
+  font-weight:bold;
+  }
+.proposal .content-body p a:hover {
+  color:#2A8CC8;
+  }
+.proposal .content-body ol,
+.proposal .content-body ul {
+  margin-left:2em;
+  margin-bottom:1em;
+  }
+.proposal .content-body.section h2 span,
+.proposal .content-body.section h3 span,
+.proposal .content-body.section h4 span {
+  display:block;
+  float:left;
+  width:48px;
+  }
+.proposal .content-body.section h4,
+.proposal .content-body.section h5,
+.proposal .content-body.section h6 {
+  margin-left:48px;
+  }
+.proposal .content-body.section p {
+  margin-left:48px;
+  }
+.proposal .content-body.section ol,
+.proposal .content-body.section ul {
+  margin-left:72px;
+  margin-top:.5em;
+  margin-bottom:1em;
+  }
+.proposal .content-body.section ol ol,
+.proposal .content-body.section ul ul,
+.proposal .content-body.section ul ol,
+.proposal .content-body.section ol ul {
+  margin-left:24px;
+  margin-top:0;
+  margin-bottom:0;
+  }
+.proposal .content-body.section ul li {
+  list-style-type:square;
+  }
+.proposal .content-body.section ol ol li {
+  list-style-type:lower-alpha;
+  }
+.proposal .content-body.section ol ol ol li {
+  list-style-type:lower-roman;
+  }
+.proposal .content-body hr {
+  color:#fff;
+  background:transparent;
+  height: 0;
+  border:0;
+  border-bottom:1px solid #ccc;
+  margin:2em 0;
+  }
+.proposal .content-body.section table {
+  margin-left:48px;
+  margin-bottom:2em;
+  width:90%;
+  float:none;
+  }
+.proposal .content-body table th {
+  font-weight:bold;
+  }
+.proposal .content-body table thead tr th {
+  background:#2A8CC8;
+  color:#fff;
+  }
+.proposal .content-body table col.cost {
+  width:30%;
+  }
+.proposal .content-body table tr.odd {
+  background:#dbeefa;
+  }
+.proposal .content-body table tr.total {
+  background:#a7d1eb;
+  text-transform:uppercase;
+  }
+.proposal .content-body table tr.total td {
+  border-top:1px solid #2A8CC8;
+  }
+.proposal .content-body.section pre {
+  margin-left:48px;
+  }
+.proposal .content-body.section blockquote {
+  margin-left:48px;
+  padding:12px 24px 12px 12px;
+  background:#dbeefa;
+  border-left:4px solid #a7d1eb;
+  }
+.proposal .content-body.section blockquote p {
+  margin:0;
+  padding:0;
+  }
+.lists ul li.subsection a {
+  padding-left:42px;
+  background-position:24px 1px;
+  }
+.lists ul li.subsection a:hover {
+  background-position:24px -95px;
+  }
+.lists ul li.subsection a.current,
+.lists ul li.subsection a.current:hover,
+.lists ul li.subsection a:active,
+.lists ul li.subsection a.current:active {
+  background-position:24px -192px;
+  }
+.lists ul li.subsubsection a {
+  padding-left:60px;
+  background-position:42px 1px;
+  }
+.lists ul li.subsubsection a:hover {
+  background-position:42px -95px;
+  }
+.lists ul li.subsubsection a.current,
+.lists ul li.subsubsection a.current:hover,
+.lists ul li.subsubsection a:active,
+.lists ul li.subsubsection a.current:active {
+  background-position:42px -192px;
+  }
+.proposal form textarea {
+  height:auto;
+  }
+table.form tbody tr td input[type="text"] {
+  width:98%;
+  }
+table.form tbody tr td.sort input {
+  width:2em;
+  }
+table.form tbody tr td input[type="submit"] {
+  margin-right:8px;
+  }
+table.form col.sort,
+table.form col.total {
+  width:3em;
+  }
+table.form col.submit {
+  width:4em;
+  }
+table.form tbody tr td.total {
+  text-align:center;
+  }
+#notice {
+  float:left;
+  width:100%;
+  background:#a7d1eb;
+  }
+#notice p {
+  padding:.5em 1em;
+  }
+pre {
+  white-space: normal;
+  }
+pre code {
+  display: block;
+  white-space: pre;
+  }
+#export-xml form {
+  padding:1.5em 1.5em 1em 1.5em;
+  }
+ul.nav-buttons {
+  float:right;
+  }
+ul.nav-buttons li {
+  float:left;
+  list-style-type:none;
+  }
+ul.nav-buttons li a {
+  font-weight:normal;
+  color:#91949c;
+  background-color:transparent;
+  display:block;
+  line-height:24px;
+  height:24px;
+  width:24px;
+  padding:0;
+  margin-top:-4px;
+  text-indent:-9999em;
+  }
+ul.nav-buttons li.add a {background:url("../../images/r1/icon_add.gif") 0 0 no-repeat;}
+ul.nav-buttons li.list a {background:url("../../images/r1/icon_next.gif") 0 0 no-repeat;}
+ul.nav-buttons li.lists-view a.collapse {background:url("../../images/r1/icon_collapse.gif") 0 0 no-repeat;}
+ul.nav-buttons li.lists-view a.expand {background:url("../../images/r1/icon_expand.gif") 0 0 no-repeat;}
+ul.nav-buttons li.delete a {background:url("../../images/r1/icon_delete.gif") 0 0 no-repeat;}
+ul.nav-buttons li.edit a {background:url("../../images/r1/icon_edit.gif") 0 0 no-repeat;}
+ul.nav-buttons li.done a {background:url("../../images/r1/icon_done.gif") 0 0 no-repeat;}
+ul.nav-buttons li.view a {background:url("../../images/r1/icon_view.gif") 0 0 no-repeat;}
+ul.nav-buttons li.previous a {background:url("../../images/r1/icon_previous.gif") 0 0 no-repeat;}
+ul.nav-buttons li.next a {background:url("../../images/r1/icon_next.gif") 0 0 no-repeat;}
+ul.nav-buttons li.first a {background:url("../../images/r1/icon_rew.gif") 0 0 no-repeat;}
+ul.nav-buttons li.last a {background:url("../../images/r1/icon_ff.gif") 0 0 no-repeat;}
+ul.nav-buttons li.today a {background:url("../../images/r1/icon_today.gif") 0 0 no-repeat;}
+
+ul.nav-buttons li a:hover {background-position:0 -96px;}
+ul.nav-buttons li a:active,
+ul.nav-buttons li a.collapse:active,
+ul.nav-buttons li a.expand:active {
+  background-position:0 -192px;
+  }
+
+.lists .list-box ul li li {border-bottom:none; border-top:1px solid #eee}
