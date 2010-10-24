@@ -4002,7 +4002,7 @@ INSERT INTO `tbl_entries` (`id`, `section_id`, `author_id`, `creation_date`, `cr
 INSERT INTO `tbl_entries` (`id`, `section_id`, `author_id`, `creation_date`, `creation_date_gmt`) VALUES (734, 7, 0, '2008-09-28 07:23:33', '2008-09-28 14:23:33');
 
 -- *** DATA: `tbl_extensions` ***
-INSERT INTO `tbl_extensions` (`id`, `name`, `status`, `version`) VALUES (7, 'markdown', 'enabled', 1.11);
+INSERT INTO `tbl_extensions` (`id`, `name`, `status`, `version`) VALUES (10, 'markdown', 'enabled', 1.12);
 INSERT INTO `tbl_extensions` (`id`, `name`, `status`, `version`) VALUES (2, 'selectbox_link_field', 'enabled', 1.18);
 INSERT INTO `tbl_extensions` (`id`, `name`, `status`, `version`) VALUES (5, 'debugdevkit', 'enabled', '1.0.8');
 INSERT INTO `tbl_extensions` (`id`, `name`, `status`, `version`) VALUES (4, 'profiledevkit', 'enabled', '1.0.4');
